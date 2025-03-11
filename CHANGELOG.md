@@ -2,11 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.0.1] - 2025-03-11
 
 ### 🚀 Features
 
 - Add a common for .pre-commit.config.yaml
+- Generate CHANGELOG.md
 
 ### 🐛 Bug Fixes
 
